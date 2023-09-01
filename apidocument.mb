@@ -1,0 +1,5 @@
+to get all movies data http://localhost:5000/movies 
+
+to get movie detail http://localhost:5000/movies:movie_id  
+
+to display video http://localhost:5000/video/:movie_id
